@@ -1,0 +1,63 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Data
+data/raw/
+data/processed/
+*.csv
+*.json
+
+# Models
+models/
+*.pth
+*.pt
+*.h5
+*.pkl
+
+# Logs
+logs/
+*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Environment variables
+.env
+.env.local
+
+# OS
+Thumbs.db
