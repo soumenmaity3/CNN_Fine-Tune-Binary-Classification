@@ -12,3 +12,5 @@ ipykernel
 kaggle
 seaborn
 streamlit
+flask
+flask-cors
